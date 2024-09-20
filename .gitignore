@@ -1,1 +1,6 @@
 /.venv
+/runs/
+/weights
+/opus_books_weights
+/__pycache__
+/.vscode
